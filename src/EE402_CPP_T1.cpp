@@ -206,5 +206,6 @@ int main() {
 		cout << "10] " << i << ": " << reverse(no_arr_7, 5)[i] << endl;
 	}
 
+	cout << "**Finished**" << endl;
 	return(EXIT_SUCCESS);
 }
