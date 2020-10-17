@@ -3,7 +3,7 @@
 // Author      : Tad McAllister
 // Version     :
 // Copyright   : *DCU MSc Tutorials*
-// Description : Hello World in C++, Ansi-style
+// Description : Tutorial 1 in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
